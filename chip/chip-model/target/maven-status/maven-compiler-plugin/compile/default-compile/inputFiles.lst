@@ -1,0 +1,9 @@
+/Users/yangjie/Documents/github/zuojie-chip/chip/chip-model/src/main/java/com/zuojie/chip/resultnum/RCode.java
+/Users/yangjie/Documents/github/zuojie-chip/chip/chip-model/src/main/java/com/zuojie/chip/util/Base64Util.java
+/Users/yangjie/Documents/github/zuojie-chip/chip/chip-model/src/main/java/com/zuojie/chip/entity/Card.java
+/Users/yangjie/Documents/github/zuojie-chip/chip/chip-model/src/main/java/com/zuojie/chip/dto/CardDto.java
+/Users/yangjie/Documents/github/zuojie-chip/chip/chip-model/src/main/java/com/zuojie/chip/util/QRcodeUtil.java
+/Users/yangjie/Documents/github/zuojie-chip/chip/chip-model/src/main/java/com/zuojie/chip/util/PhoneVcardUtil.java
+/Users/yangjie/Documents/github/zuojie-chip/chip/chip-model/src/main/java/com/zuojie/chip/service/CardService.java
+/Users/yangjie/Documents/github/zuojie-chip/chip/chip-model/src/main/java/com/zuojie/chip/exception/CardException.java
+/Users/yangjie/Documents/github/zuojie-chip/chip/chip-model/src/main/java/com/zuojie/chip/vo/R.java
